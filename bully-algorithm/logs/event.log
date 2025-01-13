@@ -1,0 +1,36 @@
+Node 1 starts an election.
+Node 1 sends election message to Node 2
+Node 2 received election message from Node 1
+Node 2 starts an election.
+Node 2 sends election message to Node 3
+Node 3 received election message from Node 2
+Node 3 starts an election.
+Node 3 is now the coordinator.
+Node 1 acknowledges Node 3 as the new coordinator.
+Node 2 acknowledges Node 3 as the new coordinator.
+Node 1 sends election message to Node 3
+Node 3 received election message from Node 1
+Node 1 starts an election.
+Node 1 sends election message to Node 2
+Node 2 received election message from Node 1
+Node 2 starts an election.
+Node 2 sends election message to Node 3
+Node 3 received election message from Node 2
+Node 3 starts an election.
+Node 3 is now the coordinator.
+Node 1 acknowledges Node 3 as the new coordinator.
+Node 2 acknowledges Node 3 as the new coordinator.
+Node 1 sends election message to Node 3
+Node 3 received election message from Node 1
+Node 1 starts an election.
+Node 1 sends election message to Node 2
+Node 2 received election message from Node 1
+Node 2 starts an election.
+Node 2 sends election message to Node 3
+Node 3 received election message from Node 2
+Node 3 starts an election.
+Node 3 is now the coordinator.
+Node 1 acknowledges Node 3 as the new coordinator.
+Node 2 acknowledges Node 3 as the new coordinator.
+Node 1 sends election message to Node 3
+Node 3 received election message from Node 1
